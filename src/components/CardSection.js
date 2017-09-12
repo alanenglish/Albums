@@ -19,6 +19,6 @@ const styles = {
     borderColor: '#DDD',
     position: 'relative'
   }
-}
+};
 
 export default CardSection;
