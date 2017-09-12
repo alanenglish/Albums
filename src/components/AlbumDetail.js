@@ -49,7 +49,8 @@ const styles = {
     justifyContent: 'space-around'
   },
   headerTextStyle: {
-    fontSize: 18
+    fontSize: 18,
+    fontWeight: 'bold'
   },
   thumbnailStyle: {
     height: 50,
