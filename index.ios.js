@@ -1,11 +1,12 @@
 // Place code here for iOS
 // Import a library to help create a Component
 import React from 'react';
-import { Text, AppRegistry } from 'react-native';
+import { AppRegistry } from 'react-native';
+import Header from './src/components/header';
 
 // Create a component
 const App = () => (
-  <Text>Show Albums</Text>
+  <Header headerText={'Albums'} />
 );
 
 // Render it to the device
